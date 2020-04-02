@@ -3,7 +3,7 @@
 #
 # RPi LED-pattern version 1.1
 # (c) 2013 Grey Wolf SoftWare, 
-#     uffe.norberg(a)gmail(dot)com
+#     uffe(dot)norberg(a)gmail(dot)com
 #
 # With a Quick2Wire interface board this software    
 # make 7 LED's blink in 8 different patterns and  
